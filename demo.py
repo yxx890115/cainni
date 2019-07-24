@@ -7,3 +7,6 @@
 # @Software: PyCharm
 def fun():
     print('ufn')
+
+def dev():
+    print('dev')
