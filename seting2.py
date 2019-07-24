@@ -6,3 +6,5 @@
 # @File    : seting2.py
 # @Software: PyCharm
 print('eeee')
+
+print('setings')
